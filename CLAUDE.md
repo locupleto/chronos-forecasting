@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Current Project Context
 
-The main task we are working on is found in this Obsidian-compatible documentation located in the vault at `/Users/urban/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianVault/Locupleto/Chronos/Experiments.md`
+The main task we are working on is found in this Obsidian-compatible documentation located in the vault at `/Users/urban/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianVault/Projects/Chronos/Experiments.md`
 
 Claude is working and updating this md-file together with the user. Always have this overall goal in mind: **Learn how to deploy an out-of-the-box Chronos-Bolt model on first an example dataset here and finally on a dataset of our own. We must use a local deployment on an Apple Silicon Mac (M1 Ultra 64GB RAM).**
 
